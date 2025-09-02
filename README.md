@@ -1,6 +1,6 @@
 # Hi, I am Rishav Dey 👋  
 
-🌱 365 = 1% better every day *(inspired by Atomic Habits)*  
+🌱 365 = 1% better every day.
 💡 "Raw talent gives a head start, but obsession and consistency turn effort into inevitability."  
 
 I am driven by curiosity and a thirst for knowledge, exploring the intersections of **technology, innovation, and positive impact**.  
